@@ -1,15 +1,5 @@
 #requires -version 2
 
-<#
-
-PowerSploit File: PowerView.ps1
-Author: Will Schroeder (@harmj0y)
-License: BSD 3-Clause
-Required Dependencies: None
-
-#>
-
-
 ########################################################
 #
 # PSReflect code for Windows API access
